@@ -1,0 +1,6 @@
+# Phase 0 has no third-party Python dependencies.
+# This file is intentionally comments-only: there is no runnable pipeline yet.
+# Add and document dependencies only when executable code needs them.
+# Before Phase 2, confirm the Databricks runtime or a compatible local setup.
+# Select compatible Python, Spark/PySpark, and Delta Lake versions together.
+# Add test tooling alongside the first meaningful tests, and MLflow in Phase 9.
